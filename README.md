@@ -1,9 +1,9 @@
 # embeddedTest
 
 The uploaded code in functions.h implements the following three functions:
-  - int getFirstRepeatedNumber(vector<int> viFirstVector, vector<int> viSecondVector);
-  - string getFile(string sPath);
-  - int getMinNumberOfPermutations(vector<bool> vbSequence);
+  - getFirstRepeatedNumber()
+  - getFile()
+  - getMinNumberOfPermutations()
 
 # getFirstRepeatedNumber()
 The getFirstRepeatedNumber() function returns the first repeated number in the given vectors and it can be either a positive or negative one. Moreover, if there is not a repeated number between the vectors or some vector is empty, a -1 is returned.
